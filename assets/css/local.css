@@ -1,0 +1,7 @@
+.has-treeview.menu-open>.nav-link,
+.has-treeview.menu-open>.nav-link:focus {
+    background-color: rgba(255,255,255,.1);
+    color: #fff;
+}
+
+ 

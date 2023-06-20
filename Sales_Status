@@ -1,0 +1,83 @@
+Different Status 
+
+Enquiry Status 
+
+	1. Pending
+	2. Offer Created
+	3. Order Created
+	4. Enquiry Regrated
+	5. Offer Loss
+	6. Order Canceled
+	7. Inrelavant Enquiry(Not Qualified).
+	8. Qualified
+
+Offer Status
+	
+	1. Pending Enquiry
+	2. Offer Created
+	3. Order Created
+	4. Offer Loss
+	5. Offer Regrated
+	6. Offer Revise
+	7. Order Canceled
+
+Sales Order Status
+
+	1. Pending Offers	
+	2. Order Created
+	3. Order Canceled
+	4. Material Delivered (After Creation Of Delivery Challan)
+	5. Invoice Created 
+	6. Invoice Final
+	7. Partial Material Delivered (After Creation Of Delivery Challan)
+	8. Performa Created.
+
+Sales Order Product Status
+
+	1. Material Selected.
+	2. Material Partial Delivered.
+	3. Material Full Delivered.
+
+
+Delivery Challan Status
+
+	1. DC Just Created.
+	2. DC Completed.
+	3. DC Invoice Created.
+	4. DC Cancel.
+	5. DC Partial Invoice Created.
+
+Delivery Challan Product Status
+
+	1. DC Product Invoice Not Created.
+	2. DC Product Invoice Created.
+	3. DC Product Return/Cancel.
+
+
+GRN Status
+
+	1. GRN Just Created(Partially Completed).
+	2. GRN Completed.
+	3. GRN Returned.
+	4. GRN Bill Passed.
+	5. Partial Bill passed.
+
+Bill passing Status
+
+	2. Bill Passing Completed.
+	3. Bill Passing Partial Payment Paid.
+	4. Bill Passing Full Payment Paid.
+	5. Bill Passing Cancel.
+
+
+cadmen 
+infinity
+finehandinga
+
+
+
+
+
+	
+
+	

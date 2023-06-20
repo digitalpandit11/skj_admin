@@ -1,0 +1,5 @@
+
+
+
+
+ALTER TABLE `product_master` ADD `product_attachment` VARCHAR(255) NULL AFTER `hsn_id`; 
